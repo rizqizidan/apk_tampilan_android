@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Tampilan Presensi Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.181" />
+        <entry key="..\:/Tampilan Presensi Android/app/src/main/res/drawable/tampilan2.xml" value="0.1745" />
         <entry key="..\:/Tampilan Presensi Android/app/src/main/res/drawable/tapilan1.xml" value="0.181" />
-        <entry key="..\:/Tampilan Presensi Android/app/src/main/res/layout/activity_tampilan1.xml" value="0.22" />
+        <entry key="..\:/Tampilan Presensi Android/app/src/main/res/layout/activity_tampilan1.xml" value="0.25" />
+        <entry key="..\:/Tampilan Presensi Android/app/src/main/res/layout/activity_tampilan2.xml" value="0.25" />
       </map>
     </option>
   </component>
